@@ -1,0 +1,8 @@
+Call Dominos
+Add cheese
+Add ham
+Add pineapple
+Give payment
+Order done
+Say for delivery
+Tip driver
