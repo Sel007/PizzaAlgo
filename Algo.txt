@@ -1,4 +1,8 @@
 Call Dominos
+Give your name
+Give your number
+State if this is pickuo or delivery
+Give your name
 Add cheese
 Add ham
 Add pineapple
