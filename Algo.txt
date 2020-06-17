@@ -1,11 +1,14 @@
 Call Dominos
 Give your name
 Give your number
+Give your address
 State if this is pickuo or delivery
-Give your name
+State what type of crust
 Add cheese
 Add ham
 Add pineapple
+State what type of sauce
+State if paying by cash or credit
 Give payment
 Order done
 Say for delivery
