@@ -11,7 +11,7 @@ State what type of sauce
 State if paying by cash or credit
 Give payment
 Order done
-Say for delivery
+Say thank you and Bye
 Tip driver
 Customer received the wrong order follow these steps
 Apologize to customer
@@ -24,4 +24,3 @@ Tell the customer we will deliver their correct order for free
 Refund the customer
 Give the customer a $5 credit
 Thank customer for their understanding and patience
-1a - 
